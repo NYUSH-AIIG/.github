@@ -18,4 +18,4 @@ Besides sending emails, we'll also share resources, events, and opportunities in
 
 However, due to the restriction of wechat, we can only invite contacts to join the group. If you are interested, please add one of the following contacts on Wechat and ask to be added to the group. **Please include your name and NYU Shanghai email address in the request.**
 
-![Wechats](./assets/Wechats.png)
+![Wechats](https://github.com/NYUSH-AIIG/.github/blob/main/profile/assets/Wechats.png)
