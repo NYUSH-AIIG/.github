@@ -6,10 +6,18 @@ The NYU Shanghai AI Interest Group is a student-led organization that aims to fo
 ## What We Do
 - **Workshops**: We host workshops on various topics in AI and machine learning, such as neural networks, computer vision, and natural language processing. These workshops are designed to be accessible to students with no prior experience in AI.
 - **Seminars**: We invite guest speakers to give in-depth talks on their research or industry experience in AI. These seminars provide students with an opportunity to learn about the latest developments in the field and to network with professionals.
-- **Newsletter**: We will send out weekly newsletter with updates on our events, AI news, and opportunities for students to get involved in AI research and projects.
+- **Newsletters**: We will send out weekly newsletter with updates on our events, AI news, and opportunities for students to get involved in AI research and projects.
 
 ## Join Our Mailing List
-WIP
+If you haven't already, please sign up for our mailing list to receive newsletters
 
-## Repo Index
-WIP
+https://forms.gle/ozKci3YbAyGRj4HN8
+
+## Join Our Wechat Group (NYU Shanghai Students Only)
+Besides sending emails, 2e'll also share resources, events, and opportunities in our Wechat group.
+
+However, due to the restriction of wechat, we can only invite contacts to join the group. If you are interested, please add one of the following contacts on Wechat and ask to be added to the group. **Please include your name and NYU Shanghai email address in the request.**
+
+<p align="center">
+  <img src="./assets/Wechats.png" alt="Wechats">
+</p>
