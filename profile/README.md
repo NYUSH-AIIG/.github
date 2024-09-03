@@ -14,10 +14,8 @@ If you haven't already, please sign up for our mailing list to receive newslette
 https://forms.gle/ozKci3YbAyGRj4HN8
 
 ## Join Our Wechat Group (NYU Shanghai Students Only)
-Besides sending emails, 2e'll also share resources, events, and opportunities in our Wechat group.
+Besides sending emails, we'll also share resources, events, and opportunities in our Wechat group.
 
 However, due to the restriction of wechat, we can only invite contacts to join the group. If you are interested, please add one of the following contacts on Wechat and ask to be added to the group. **Please include your name and NYU Shanghai email address in the request.**
 
-<p align="center">
-  <img src="./assets/Wechats.png" alt="Wechats">
-</p>
+![Wechats](./assets/Wechats.png)
