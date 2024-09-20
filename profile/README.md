@@ -9,9 +9,10 @@ The NYU Shanghai AI Interest Group is a student-led organization that aims to fo
 - **Newsletters**: We will send out weekly newsletter with updates on our events, AI news, and opportunities for students to get involved in AI research and projects.
 
 ## Join Our Mailing List
-If you haven't already, please sign up for our mailing list to receive newsletters
+If you haven't already, please [sign up](https://forms.gle/ozKci3YbAyGRj4HN8) for our mailing list to receive newsletters.
 
-https://forms.gle/ozKci3YbAyGRj4HN8
+## Subscribe to Our Google Calendar (NYU Shanghai Students Only)
+We host events regularly throughout the semester. Please subscribe [AI Interest Group Events Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZGZkOGNkM2JiMWM5NzViZDU1YjVkYzQyMWJkZDQwMGFjYWJkZWVkMGQzMWRmNGRjMTlkOTNhYjNmZDNlYzJjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to stay updated about the data, time, and location of our events.
 
 ## Join Our Wechat Group (NYU Shanghai Students Only)
 Besides sending emails, we'll also share resources, events, and opportunities in our Wechat group.
